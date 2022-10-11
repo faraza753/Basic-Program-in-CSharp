@@ -11,6 +11,7 @@ namespace Armstrong
         {
 
             int r, sum = 0, temp;
+            Console.Write("Enter the number");
             int n = Convert.ToInt32(Console.ReadLine());
             temp = n;
             while (n > 0)

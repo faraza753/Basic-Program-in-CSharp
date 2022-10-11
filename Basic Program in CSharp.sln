@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Number", "Reverse N
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Types of Loop (For , While , Do While)", "Types of Loop (For , While , Do While)\Types of Loop (For , While , Do While).csproj", "{5427D41B-2B7E-42F7-B14D-B5E8A2E9B23B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Armstrong Number", "Armstrong Number\Armstrong Number.csproj", "{D6A79A87-E35E-4D93-AD70-ACE6E6E419EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armstrong Number", "Armstrong Number\Armstrong Number.csproj", "{D6A79A87-E35E-4D93-AD70-ACE6E6E419EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{DC7C7F30-D6DC-4C66-B744-BF7A72173B8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D6A79A87-E35E-4D93-AD70-ACE6E6E419EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6A79A87-E35E-4D93-AD70-ACE6E6E419EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6A79A87-E35E-4D93-AD70-ACE6E6E419EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC7C7F30-D6DC-4C66-B744-BF7A72173B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7C7F30-D6DC-4C66-B744-BF7A72173B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7C7F30-D6DC-4C66-B744-BF7A72173B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7C7F30-D6DC-4C66-B744-BF7A72173B8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

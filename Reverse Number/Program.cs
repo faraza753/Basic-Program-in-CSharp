@@ -6,6 +6,7 @@ namespace Reverse
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter the number");
             int n = Convert.ToInt32(Console.ReadLine());
             int r, rev = 0;
             while (n != 0)

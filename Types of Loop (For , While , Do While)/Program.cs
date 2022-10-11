@@ -8,6 +8,7 @@ namespace Typesofloop
         {
 
             //Using For Loop
+            //Console.Write("Enter the number");
             //int x = Convert.ToInt32(Console.ReadLine());
             //int c;
             //for Loop//for (int i = 1; i <= 10; i++)
