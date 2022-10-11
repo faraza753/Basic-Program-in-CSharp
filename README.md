@@ -8,8 +8,14 @@
 
 
 
-3 - Reverse Number
+
+3 - Palindrome
 
 
 
-4 - Types of Loop (For , While , Do While)
+
+4 - Reverse Number
+
+
+
+5 - Types of Loop (For , While , Do While)
