@@ -12,7 +12,7 @@ namespace Factorial
             n=Convert.ToInt32(Console.ReadLine());
             for(i=1;i<=n;++i)
             {
-                j = j*i;
+                j = j*i; 
 
             }
             Console.Write("Factorial of" + n + "is" + j);
